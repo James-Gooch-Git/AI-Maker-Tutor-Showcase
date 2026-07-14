@@ -75,4 +75,4 @@ Standard AI assistants hand over answers directly, which undermines learning. Th
 
 This is a portfolio showcase. The full source code is private as this project has commercial potential.
 
-**Interested in the codebase or a walkthrough?** Reach out via [GitHub](https://github.com/James-Gooch-Git) or [email](mailto:gewainwright@gmail.com).
+**Interested in the codebase or a walkthrough?** Reach out via [GitHub](https://github.com/James-Gooch-Git) or [email](mailto:jamesworkgooch@gmail.com).
